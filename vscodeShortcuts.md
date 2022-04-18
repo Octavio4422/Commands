@@ -3,7 +3,7 @@
 CTRL + , = settings;
 
 CTRL + SHIFT + P = command palette;
-                   @ list everything in the code
+                   @ list everything in the code;
 
 # File traveling
 
@@ -30,3 +30,8 @@ CTRL + G = go to a specific line;
 CTRL + D (x2) = to multi line editing; || ALT + CLICK = to set multiple cursors;
 
 CTRL + X = to cut a line (no need tho highlight); || ALT + ↑↓ = to move a line; || ALT + SHIFT + ↑↓ = to create a copy of the line;
+
+CTRL + ENTER = go to the bottom line;
+
+CTRL + SHIFT + O = list of all the elements;
+
