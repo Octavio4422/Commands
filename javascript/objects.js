@@ -32,3 +32,8 @@ Object.fromEntries(example2)
 //Object.assing() creates a reference copy of an object
 //it doesnt work property when an object stores another object inside
 Object.assign(clonedExample, example1);
+
+//Object.prototype.hasOwnProperty() searchs in to the object a prop with the same name as the parameter
+//and returns true or false
+example1.hasOwnProperty('name') //returns true
+example1.hasOwnProperty('age')  //returns false
